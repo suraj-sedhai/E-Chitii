@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474468920569",
+    "project_id": "e-chitii",
+    "storage_bucket": "e-chitii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474468920569:android:c42bf7ba4bdd1f9cd98628",
+        "android_client_info": {
+          "package_name": "com.example.e_chitti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVC5K1T6g5Rm97sw1xfMN8DM3aMNao7Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
