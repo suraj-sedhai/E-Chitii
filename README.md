@@ -1,4 +1,4 @@
-# NewsApp
+# E-Chitti
 This is android applicaiton through which we can get logged in through mobile numbers and have messaging capability to others user.
 
 ## Installation
